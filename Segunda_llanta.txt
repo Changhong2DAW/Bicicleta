@@ -1,4 +1,8 @@
 No necesito comprar recursos ya que ya los tengo de la primera compra.
 Lo he empezado a montar y al fin esta montado.
 Lo empiezo a montar
+<<<<<<< HEAD
 liena agregada
+=======
+Cambio en la rama segunda
+>>>>>>> segunda
